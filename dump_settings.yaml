@@ -1,0 +1,30 @@
+BLOCK_SITE: []
+DATABASE: sqlite
+DEPLOY_TYPE: github
+GITEE_FRIENDS_LINKS:
+  enable: false
+  owner: ccknbc
+  repo: blogroll
+  state: open
+  type: normal
+GITHUB_FRIENDS_LINKS:
+  enable: true
+  owner: BowenYoung
+  repo: friendLinks-api
+  state: open
+  type: volantis
+HTTP_PROXY: false
+LINK:
+- link: https://bowenyoung.cn/
+  theme: volantis
+OUTDATE_CLEAN: 60
+SETTINGS_FRIENDS_LINKS:
+  enable: true
+  json_api: ''
+  list:
+  - - "FelixChen\u7684\u57FA\u5730"
+    - https://www.felixchen0707.cn/
+    - https://i.imgtg.com/2022/06/06/n3ORs.jpg
+  - - UselessSpeaker
+    - https://www.changyue2022.cn/
+    - https://img.gejiba.com/images/9e4dd1fe77e0d1474b052151fa49e558.jpg
