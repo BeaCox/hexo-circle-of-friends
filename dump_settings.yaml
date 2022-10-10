@@ -15,7 +15,7 @@ GITHUB_FRIENDS_LINKS:
   type: volantis
 HTTP_PROXY: false
 LINK:
-- link: https://bowenyoung.cn/
+- link: https://bowenyoung.cn/friends/
   theme: volantis
 OUTDATE_CLEAN: 60
 SETTINGS_FRIENDS_LINKS:
