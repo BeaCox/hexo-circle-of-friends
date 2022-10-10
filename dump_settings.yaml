@@ -19,7 +19,7 @@ LINK:
   theme: volantis
 OUTDATE_CLEAN: 60
 SETTINGS_FRIENDS_LINKS:
-  enable: true
+  enable: false
   json_api: ''
   list:
   - - "FelixChen\u7684\u57FA\u5730"
